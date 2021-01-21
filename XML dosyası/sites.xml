@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sites version="1">
+    <site>
+        <Name>https://golang.org/</Name>
+        <Description>Golang Resmi Sitesi</Description>
+        <Category>Programlama Dili</Category>
+    </site>
+</sites>
